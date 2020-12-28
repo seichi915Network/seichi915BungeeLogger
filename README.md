@@ -1,0 +1,2 @@
+# seichi915BungeeLogger
+BungeeCordからのメッセージをPaperMCのコンソールにロギングするやつ
