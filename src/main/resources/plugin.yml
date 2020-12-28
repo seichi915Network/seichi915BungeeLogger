@@ -1,0 +1,8 @@
+name: Seichi915BungeeLogger
+version: 1.0.0
+main: net.seichi915.seichi915bungeelogger.Seichi915BungeeLogger
+api-version: "1.13"
+load: STARTUP
+authors: [stouma915]
+description: "BungeeCordからのメッセージをPaperMCのコンソールにロギングするやつ"
+website: https://www.seichi915.net
